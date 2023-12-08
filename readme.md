@@ -1,4 +1,4 @@
-# Pose Classification
+# YOLOv8 Pose Classification
 
 Pose classification and repetition counting with the k-NN algorithm
 
